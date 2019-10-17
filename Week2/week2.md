@@ -24,7 +24,7 @@ After this I moved on to the lab task of writing a three line story on the seria
 
 #### 3. Photoresistor
   
-![image of using a photoresistor to adjust the LED brightness](photoresistor.jpg)  
+![image of using a photoresistor to adjust the LED brightness](photoresistor.JPG)  
   
 This was very straight forward as it's very similar to a normal resistor.
 
@@ -36,6 +36,6 @@ Although I understood how to connect a potentiometer with in a circuit the first
 
 #### 5. Ultrasonic Sensor
 
-![image of using a ultrasonic sensor](sensor.jpg)  
+![image of using a ultrasonic sensor](sensor.JPG)  
   
 This was also straightforward and I was able to build the circuit and print the distance on the serial monitor by following the instructions under the link provided.
