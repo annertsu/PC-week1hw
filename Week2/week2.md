@@ -24,18 +24,18 @@ After this I moved on to the lab task of writing a three line story on the seria
 
 #### 3. Photoresistor
   
-![image of using a photoresistor to adjust the LED brightness]photoresistor.jpg  
+![image of using a photoresistor to adjust the LED brightness](photoresistor.jpg)  
   
 This was very straight forward as it's very similar to a normal resistor.
 
 #### 4. Potentiometer
 
-![image of using a potentiometer to adjust the LED brightness]photoresistor.jpg  
+![image of using a potentiometer to adjust the LED brightness](potentiometer.jpg)  
   
 Although I understood how to connect a potentiometer with in a circuit the first time around, I struggled quite a bit in understanding how the potentiometer works. However, I found an amazing [youtube video](https://www.youtube.com/watch?v=MImq6R6QCgg) with a very simple explanation and built the circuit again at home as review.
 
 #### 5. Ultrasonic Sensor
 
-![image of using a ultrasonic sensor]photoresistor.jpg  
+![image of using a ultrasonic sensor](sensor.jpg)  
   
 This was also straightforward and I was able to build the circuit and print the distance on the serial monitor by following the instructions under the link provided.
