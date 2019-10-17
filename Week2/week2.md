@@ -12,9 +12,9 @@ We were running out of space on the breadboard after lighting up more than 10 LE
 
 #### 2. Serial Monitor
   
-I set up a very basic push button and LED circuit to better understand the function of a serial monitor. Below is a screenshot of the serial monitor responding and the arduino code for it is saved [here](../tree/master/Week201).  
+I set up a very basic push button and LED circuit to better understand the function of a serial monitor. The arduino code for it is saved [here](../Week2/serialMonitorBasics).  
   
-After this I moved on to the lab task of writing a three line story on the serial monitor, in which the code is saved [here](../tree/master/Week201). I initially had difficulties showing the first line on the monitor but managed to do so by including `while (!Serial);` as shown below:
+After this I moved on to the lab task of writing a three line story on the serial monitor, in which the code is saved [here](../Week2/serialMonitorShortConvo). I initially had difficulties showing the first line on the monitor but managed to do so by including `while (!Serial);` as shown below:
 
     void setup() {
         Serial.begin(9600); //9600 is the baudrate = speed of bits per second
@@ -24,15 +24,18 @@ After this I moved on to the lab task of writing a three line story on the seria
 
 #### 3. Photoresistor
   
-<img src="photoresistor.jpg" width="600"><br><br>
+![image of using a photoresistor to adjust the LED brightness]photoresistor.jpg  
+  
 This was very straight forward as it's very similar to a normal resistor.
 
 #### 4. Potentiometer
 
-<img src="potentiometer.jpg" width="600"><br><br>
+![image of using a potentiometer to adjust the LED brightness]photoresistor.jpg  
+  
 Although I understood how to connect a potentiometer with in a circuit the first time around, I struggled quite a bit in understanding how the potentiometer works. However, I found an amazing [youtube video](https://www.youtube.com/watch?v=MImq6R6QCgg) with a very simple explanation and built the circuit again at home as review.
 
 #### 5. Ultrasonic Sensor
 
-<img src="sensor.jpg" width="600"><br><br>
-This was also straightforward and I was able to build the circuit following the instructions under the link provided.
+![image of using a ultrasonic sensor]photoresistor.jpg  
+  
+This was also straightforward and I was able to build the circuit and print the distance on the serial monitor by following the instructions under the link provided.
