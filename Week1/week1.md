@@ -22,12 +22,14 @@ Through these three exercises, I was able to slowly recall the content on electr
 
 This is a multiplayer game in which 3 or 4 players compete their button pressing speed and luck. The first person to finish pressing the button 100 times and releases an audio from the piezo buzzer wins the game. The catch is, you can only press the button during the timeframe after you roll the number six on a dice and before one of your opponents roll a six.
 
-<img src="finalResult.jpg" width="600"><br><br>
-Again, I forgot to take a video of the final result...However, the above is an image of the final wiring and [this is a short snippet](https://youtu.be/mucXpLqc3tw) of how the LEDs blink once the game ends. Also, the final Arduino script is [here](../tree/master/Week201).
+![image of the game prototype](finalResult.JPG)  
+  
+Again, I forgot to take a video of the final result...However, the above is an image of the final wiring and [this is a short snippet](https://youtu.be/mucXpLqc3tw) of how the LEDs blink once the game ends. Also, the final Arduino script is [here](../Week1/homework).
 
 #### Process
 
-<img src="lcdAttempt.jpg" width="600"><br><br> 
+![image of attempting to use the LCD](lcdAttempt.JPG) 
+  
 I attempted to use an LCD to display instructions on the screen as shown above, however, after a couple hours of trying to make it work, I decided to refocus on the main objective of the game.  
   
 It was also really interesting to see myself [being conductive](https://youtu.be/K4pV_2TpxA0).
