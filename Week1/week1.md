@@ -24,7 +24,7 @@ This is a multiplayer game in which 3 or 4 players compete their button pressing
 
 ![image of the game prototype](finalResult.JPG)  
   
-Again, I forgot to take a video of the final result...However, the above is an image of the final wiring and [this is a short snippet](https://youtu.be/mucXpLqc3tw) of how the LEDs blink once the game ends. Also, the final Arduino script is [here](../blob/master/Week1/homework/homework.ino).
+Again, I forgot to take a video of the final result...However, the above is an image of the final wiring and [this is a short snippet](https://youtu.be/mucXpLqc3tw) of how the LEDs blink once the game ends. Also, the final Arduino script is [here](../blob/master/Week1/homework).
 
 #### Process
 
