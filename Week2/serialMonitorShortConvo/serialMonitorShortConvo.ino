@@ -1,7 +1,6 @@
 void setup() {
   Serial.begin(9600); //9600 is the baudrate = speed of bits per second
-  // while the serial stream is not open, do nothing:
-  while (!Serial); //// this line waits to be loaded until the serial monitor is open
+  while (!Serial); // this line waits to be loaded until the serial monitor is open
   Serial.println("Do you like chili?");
 }
 
