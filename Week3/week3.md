@@ -21,7 +21,7 @@ To review content from Week 2, I rebuilt a circuit with a LED controlled by a po
 [Dark Detecting LED 1](https://youtu.be/PJBI2We9WsI)  
 [Dark Detecting LED 2](https://youtu.be/TMGES5NFEIg)
 
-Before trying this exercise again (invividually at home), I watched multiple youtube videos to better understand how doping works at a chemical level and how NPN/PNP transistors work. This really helped me to fully understand the reasonings behind the schematic diagram provided to us in the presentation slide.
+Before trying this exercise again (invividually at home), I watched two youtube videos that helped me to fully understand how doping works at a chemical level and how NPN/PNP transistors work.
 
 I had a lot of difficulties with this exercise. After spending hours trying to build the circuit and trying everything to make it light up, I found out that my phototransistor was plugged in the wrong way around...I thought that the longer leg was the cathode and the shorter leg was the anode (like LEDs) but I now understand that they are the collectors and emitters. In order to make sure I fully understand how to build the circuit properly, I tried out two variations which are shown in the videos above.
 
