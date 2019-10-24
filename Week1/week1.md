@@ -4,9 +4,9 @@
 
 #### Arduino Exercise 1
 
-[Single Push Button and LED](https://youtu.be/1WtXzDvz4zQ)  
-[Series Circuit](https://youtu.be/o7IhD0Vq9Ew)  
-[Parallel Circuit](https://youtu.be/nQeZqB6rXlY)  
+[Single Push Button and LED Video](https://youtu.be/1WtXzDvz4zQ)  
+[Series Circuit Video](https://youtu.be/o7IhD0Vq9Ew)  
+[Parallel Circuit Video](https://youtu.be/nQeZqB6rXlY)  
   
 Through these three exercises, I was able to slowly recall the content on electricity and magnetism I learned during high school physics. Revisiting my old textbook and restudying some of the topics, also helped me to further understand the basics of how circuits work.
 

@@ -12,14 +12,14 @@ After prototyping using the breadboard (first image), our group transferred the 
 
 #### 2. Potentiometer Review
 
-[Potentiometer Review](https://youtu.be/_nV3cUQgEfk)
+[Potentiometer Review Video](https://youtu.be/_nV3cUQgEfk)
 
 To review content from Week 2, I rebuilt a circuit with a LED controlled by a potentiometer.
 
 #### 3. Dark Detecting LED
 
-[Dark Detecting LED 1](https://youtu.be/PJBI2We9WsI)  
-[Dark Detecting LED 2](https://youtu.be/TMGES5NFEIg)
+[Dark Detecting LED 1 Video](https://youtu.be/PJBI2We9WsI)  
+[Dark Detecting LED 2 Video](https://youtu.be/TMGES5NFEIg)
   
 I had a lot of difficulties with this exercise. After spending hours trying to build the circuit in various ways, referring back to the circuit you helped us build during class, asking classmates, using different breadboards and trying everything to fix the issue, I found out that my phototransistor was plugged in the wrong way around...I thought that the longer leg was the cathode and the shorter leg was the anode (like LEDs) but I now understand that they are the collectors and emitters. In order to make sure I fully understand how to build the circuit properly, I tried out two variations which are shown in the videos above.
 
