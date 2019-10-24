@@ -16,7 +16,7 @@ I spent quite a while trying to make the motor move and turns out that it was be
 
 #### 3. Hooking Up a MPR121
   
-[MPR121](https://youtu.be/EeZy3py5RHo)  
+[MPR121 Video](https://youtu.be/EeZy3py5RHo)  
   
 The Arduino script for this activity is saved [here](../Week4/mpr121).
 
